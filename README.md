@@ -55,80 +55,74 @@ Others:          0.52%  ⚪
 
 ### 📸 Award Gallery
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&fontSize=0" width="100%"/>
-</p>
+<div align="center">
+
+#### 🏆 Certificates & Awards
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <a href="awards/hutech_startup_runner_up.jpg">
-        <img src="awards/hutech_startup_runner_up.jpg" width="95%" alt="HUTECH Startup Runner-up Award" style="border-radius: 10px; transition: transform 0.3s ease;"/>
+        <img src="awards/hutech_startup_runner_up.jpg" height="300" alt="HUTECH Startup Runner-up"/>
       </a>
-      <br/>
-      <sub><b>🥈 HUTECH Startup Runner-up</b></sub>
+      <br/><sub>🥈 <b>Runner-up Award</b></sub>
     </td>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <a href="awards/award_2.jpg">
-        <img src="awards/award_2.jpg" width="95%" alt="Award Certificate 2" style="border-radius: 10px; transition: transform 0.3s ease;"/>
+        <img src="awards/award_2.jpg" height="300" alt="Certificate 2"/>
       </a>
-      <br/>
-      <sub><b>🏆 Achievement Certificate</b></sub>
+      <br/><sub>🏆 <b>Certificate</b></sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <a href="awards/award_3.jpg">
-        <img src="awards/award_3.jpg" width="95%" alt="Award Certificate 3" style="border-radius: 10px; transition: transform 0.3s ease;"/>
+        <img src="awards/award_3.jpg" height="300" alt="Certificate 3"/>
       </a>
-      <br/>
-      <sub><b>🎯 Recognition Award</b></sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="awards/award_4.jpg">
-        <img src="awards/award_4.jpg" width="95%" alt="Award Certificate 4" style="border-radius: 10px; transition: transform 0.3s ease;"/>
-      </a>
-      <br/>
-      <sub><b>⭐ Excellence Award</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="awards/award_5.jpg">
-        <img src="awards/award_5.jpg" width="95%" alt="Award Certificate 5" style="border-radius: 10px; transition: transform 0.3s ease;"/>
-      </a>
-      <br/>
-      <sub><b>🌟 Innovation Prize</b></sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="awards/award_6.jpg">
-        <img src="awards/award_6.jpg" width="95%" alt="Award Certificate 6" style="border-radius: 10px; transition: transform 0.3s ease;"/>
-      </a>
-      <br/>
-      <sub><b>💡 Creative Award</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="awards/award_7.jpg">
-        <img src="awards/award_7.jpg" width="95%" alt="Award Certificate 7" style="border-radius: 10px; transition: transform 0.3s ease;"/>
-      </a>
-      <br/>
-      <sub><b>🚀 Startup Achievement</b></sub>
-    </td>
-    <td width="50%" align="center">
-      <a href="awards/award_8.jpg">
-        <img src="awards/award_8.jpg" width="95%" alt="Award Certificate 8" style="border-radius: 10px; transition: transform 0.3s ease;"/>
-      </a>
-      <br/>
-      <sub><b>🎓 Academic Excellence</b></sub>
+      <br/><sub>🎯 <b>Recognition</b></sub>
     </td>
   </tr>
 </table>
 
+#### 🥇 Medals & Achievements
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <a href="awards/award_4.jpg">
+        <img src="awards/award_4.jpg" width="180" alt="Medal 1"/>
+      </a>
+      <br/><sub>⭐ <b>Excellence</b></sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="awards/award_5.jpg">
+        <img src="awards/award_5.jpg" width="180" alt="Medal 2"/>
+      </a>
+      <br/><sub>🌟 <b>Innovation</b></sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="awards/award_6.jpg">
+        <img src="awards/award_6.jpg" width="180" alt="Award 6"/>
+      </a>
+      <br/><sub>💡 <b>Creative</b></sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="awards/award_8.jpg">
+        <img src="awards/award_8.jpg" width="180" alt="Certificate"/>
+      </a>
+      <br/><sub>🎓 <b>Academic</b></sub>
+    </td>
+  </tr>
+</table>
+
+#### 🚀 Event Highlights
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
+  <a href="awards/award_7.jpg">
+    <img src="awards/award_7.jpg" width="600" alt="Startup Event"/>
+  </a>
+  <br/><sub><b>� HUTECH Startup Wings - Top 6 Finalist</b></sub>
 </p>
+
+</div>
 
 ---
 
