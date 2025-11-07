@@ -55,56 +55,80 @@ Others:          0.52%  ⚪
 
 ### 📸 Award Gallery
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&fontSize=0" width="100%"/>
+</p>
+
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="awards/hutech_startup_runner_up.jpg" width="100%" alt="HUTECH Startup Runner-up Award" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      <a href="awards/hutech_startup_runner_up.jpg">
+        <img src="awards/hutech_startup_runner_up.jpg" width="95%" alt="HUTECH Startup Runner-up Award" style="border-radius: 10px; transition: transform 0.3s ease;"/>
+      </a>
       <br/>
       <sub><b>🥈 HUTECH Startup Runner-up</b></sub>
     </td>
     <td width="50%" align="center">
-      <img src="awards/award_2.jpg" width="100%" alt="Award Certificate 2" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      <a href="awards/award_2.jpg">
+        <img src="awards/award_2.jpg" width="95%" alt="Award Certificate 2" style="border-radius: 10px; transition: transform 0.3s ease;"/>
+      </a>
       <br/>
       <sub><b>🏆 Achievement Certificate</b></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="awards/award_3.jpg" width="100%" alt="Award Certificate 3" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      <a href="awards/award_3.jpg">
+        <img src="awards/award_3.jpg" width="95%" alt="Award Certificate 3" style="border-radius: 10px; transition: transform 0.3s ease;"/>
+      </a>
       <br/>
       <sub><b>🎯 Recognition Award</b></sub>
     </td>
     <td width="50%" align="center">
-      <img src="awards/award_4.jpg" width="100%" alt="Award Certificate 4" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      <a href="awards/award_4.jpg">
+        <img src="awards/award_4.jpg" width="95%" alt="Award Certificate 4" style="border-radius: 10px; transition: transform 0.3s ease;"/>
+      </a>
       <br/>
       <sub><b>⭐ Excellence Award</b></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="awards/award_5.jpg" width="100%" alt="Award Certificate 5" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      <a href="awards/award_5.jpg">
+        <img src="awards/award_5.jpg" width="95%" alt="Award Certificate 5" style="border-radius: 10px; transition: transform 0.3s ease;"/>
+      </a>
       <br/>
       <sub><b>🌟 Innovation Prize</b></sub>
     </td>
     <td width="50%" align="center">
-      <img src="awards/award_6.jpg" width="100%" alt="Award Certificate 6" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      <a href="awards/award_6.jpg">
+        <img src="awards/award_6.jpg" width="95%" alt="Award Certificate 6" style="border-radius: 10px; transition: transform 0.3s ease;"/>
+      </a>
       <br/>
       <sub><b>💡 Creative Award</b></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="awards/award_7.jpg" width="100%" alt="Award Certificate 7" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      <a href="awards/award_7.jpg">
+        <img src="awards/award_7.jpg" width="95%" alt="Award Certificate 7" style="border-radius: 10px; transition: transform 0.3s ease;"/>
+      </a>
       <br/>
       <sub><b>🚀 Startup Achievement</b></sub>
     </td>
     <td width="50%" align="center">
-      <img src="awards/award_8.jpg" width="100%" alt="Award Certificate 8" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      <a href="awards/award_8.jpg">
+        <img src="awards/award_8.jpg" width="95%" alt="Award Certificate 8" style="border-radius: 10px; transition: transform 0.3s ease;"/>
+      </a>
       <br/>
       <sub><b>🎓 Academic Excellence</b></sub>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
+</p>
 
 ---
 
