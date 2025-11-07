@@ -8,45 +8,40 @@ Building intelligent **sensor-to-cloud systems** for smart aquaculture 🦐
 
 ## 🚀 Featured Projects
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🌊 **[ShrimpTechWeb](https://github.com/minhhieu-2003/ShrimpTechWeb)** | Full-stack IoT platform for real-time aquaculture monitoring & automated control | ⭐ Production |
-| ⚙️ **[IoT-SystemDemo_App](https://github.com/minhhieu-2003/IoT-SystemDemo_App)** | Production-ready ESP32 firmware with multi-sensor integration & FreeRTOS multitasking | ⭐ Production |
-| 📱 **[ShrimpTechApp](https://github.com/minhhieu-2003/ShrimpTechApp)** | Cross-platform React Native mobile app for device control & monitoring | 🚀 Active |
-| 🍃 **[app_IOT_demo_Raspberry-pi](https://github.com/minhhieu-2003/app_IOT_demo_Raspberry-pi)** | Raspberry Pi edge gateway with local data processing & MQTT integration | 🚀 Active |
-| 🧠 **[Learn-PyTorch](https://github.com/minhhieu-2003/Learn-How-to-Build-PyTorch-Neural-Networks-from-Scratch)** | Educational deep learning resource - Neural networks from scratch | 📚 Educational |
+| Project | Tech | Description |
+|---------|------|-------------|
+| 🌊 **[ShrimpTechWeb](https://github.com/minhhieu-2003/ShrimpTechWeb)** | JavaScript • HTML • CSS | Full-stack IoT platform - Real-time aquaculture monitoring & control |
+| ⚙️ **[IoT-SystemDemo_App](https://github.com/minhhieu-2003/IoT-SystemDemo_App)** | C++ • ESP32 • FreeRTOS | Production firmware - Multi-sensor integration & cloud sync |
+| 📱 **[ShrimpTechApp](https://github.com/minhhieu-2003/ShrimpTechApp)** | TypeScript • React Native | Mobile app - Device control & real-time monitoring |
+| 🍃 **[app_IOT_demo_Raspberry-pi](https://github.com/minhhieu-2003/app_IOT_demo_Raspberry-pi)** | Node.js • TypeScript • MQTT | Edge gateway - Local data processing & cloud bridge |
+| 📚 **[NCKH](https://github.com/minhhieu-2003/NCKH)** | C++ • C | Research - Smart aquaculture systems (VHU & HUTECH) |
+| 🧠 **[Learn-PyTorch](https://github.com/minhhieu-2003/Learn-How-to-Build-PyTorch-Neural-Networks-from-Scratch)** | Python • PyTorch | Educational - Deep learning fundamentals |
 
 ---
 
 ## 💻 Tech Stack
 
-```
-Embedded:    ESP32 • FreeRTOS • C/C++ • Arduino • PlatformIO
-Cloud:       Firebase • Node.js • REST APIs • Cloud Functions
-Frontend:    React • React Native • TypeScript • Next.js
-AI/ML:       TensorFlow Lite • PyTorch • Python
-Tools:       Git • GitHub Actions • EasyEDA • JLCPCB • VS Code
-```
+**Frontend:** JavaScript • TypeScript • React • React Native • HTML • CSS  
+**Embedded:** C++ • C • ESP32 • FreeRTOS • Arduino  
+**Backend:** Node.js • Firebase • REST APIs  
+**AI/ML:** Python • PyTorch • TensorFlow Lite  
+**Tools:** Git • GitHub • EasyEDA • JLCPCB • VS Code  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Language Distribution
 
 ```
-⭐ Total Stars Earned:        2
-📝 Total Commits (last year):  66
-🔀 Total PRs:                  0
-📋 Total Issues:               4
-🤝 Contributed to (last year): 1
+TypeScript:     30.96%  🔵
+C++:            13.57%  🔴
+JavaScript:      8.25%  🟨
+HTML:            3.66%  🔴
+CSS:             2.28%  🟣
+C:               0.20%  ⚪
+Others:          0.52%  ⚪
 ```
 
-**Most Used Languages:**
-- 🐍 Python: 88.34%
-- 🟨 JavaScript: 4.68%
-- 🔵 TypeScript: 2.94%
-- 🔴 HTML: 2.03%
-- 🟣 CSS: 1.26%
-- 🔴 C++: 0.75%
+**Total:** 6 repositories | 66 commits | 2 stars
 
 ---
 
@@ -64,22 +59,13 @@ Tools:       Git • GitHub Actions • EasyEDA • JLCPCB • VS Code
 
 ✅ **IoT & Embedded Systems** – ESP32, FreeRTOS, sensor integration  
 ✅ **Smart Aquaculture** – Real-time monitoring, automated control  
-✅ **Edge AI** – TensorFlow Lite, disease detection, anomaly detection  
-✅ **Full-Stack Development** – Hardware → Firmware → Cloud → Mobile  
-✅ **Open-Source** – Community-driven solutions for sustainable agriculture  
+✅ **Full-Stack Development** – Frontend, backend, hardware integration  
+✅ **Edge AI & Computer Vision** – Disease detection, anomaly analysis  
+✅ **Open-Source** – Community-driven sustainable agriculture solutions  
 
 ---
 
-## 📚 Latest Projects Status
-
-- **ShrimpTechWeb:** Full-stack platform deployed on Vercel
-- **IoT-SystemDemo_App:** Production firmware with 5+ FreeRTOS tasks
-- **ShrimpTechApp:** React Native app for iOS & Android
-- **NCKH:** University research on smart aquaculture systems
-
----
-
-## 🔗 Quick Links
+## 🔗 Connect
 
 📧 **Email:** [minhhieutran691@gmail.com](mailto:minhhieutran691@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/minhhieu-tran-767b17396](https://linkedin.com/in/minhhieu-tran-767b17396/)  
