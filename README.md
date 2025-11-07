@@ -8,23 +8,45 @@ Building intelligent **sensor-to-cloud systems** for smart aquaculture 🦐
 
 ## 🚀 Featured Projects
 
-| Project | Tech Stack | Description |
-|---------|-----------|-------------|
-| 🌊 **[ShrimpTechWeb](https://github.com/minhhieu-2003/ShrimpTechWeb)** | Next.js • Firebase • React | Full-stack IoT platform for real-time aquaculture monitoring & automated control |
-| ⚙️ **[IoT-SystemDemo_App](https://github.com/minhhieu-2003/IoT-SystemDemo_App)** | C++ • ESP32 • FreeRTOS | Production-ready firmware with multi-sensor integration & cloud sync |
-| 📱 **[ShrimpTechApp](https://github.com/minhhieu-2003/ShrimpTechApp)** | React Native • TypeScript • Firebase | Cross-platform mobile app for device control & monitoring |
-| 🍃 **[app_IOT_demo_Raspberry-pi](https://github.com/minhhieu-2003/app_IOT_demo_Raspberry-pi)** | Node.js • TypeScript • MQTT | Raspberry Pi edge gateway with local data processing |
-| 🧠 **[Learn-PyTorch](https://github.com/minhhieu-2003/Learn-How-to-Build-PyTorch-Neural-Networks-from-Scratch)** | Python • PyTorch • Jupyter | Deep learning fundamentals & neural networks |
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🌊 **[ShrimpTechWeb](https://github.com/minhhieu-2003/ShrimpTechWeb)** | Full-stack IoT platform for real-time aquaculture monitoring & automated control | ⭐ Production |
+| ⚙️ **[IoT-SystemDemo_App](https://github.com/minhhieu-2003/IoT-SystemDemo_App)** | Production-ready ESP32 firmware with multi-sensor integration & FreeRTOS multitasking | ⭐ Production |
+| 📱 **[ShrimpTechApp](https://github.com/minhhieu-2003/ShrimpTechApp)** | Cross-platform React Native mobile app for device control & monitoring | 🚀 Active |
+| 🍃 **[app_IOT_demo_Raspberry-pi](https://github.com/minhhieu-2003/app_IOT_demo_Raspberry-pi)** | Raspberry Pi edge gateway with local data processing & MQTT integration | 🚀 Active |
+| 🧠 **[Learn-PyTorch](https://github.com/minhhieu-2003/Learn-How-to-Build-PyTorch-Neural-Networks-from-Scratch)** | Educational deep learning resource - Neural networks from scratch | 📚 Educational |
 
 ---
 
 ## 💻 Tech Stack
 
-**Embedded:** ESP32 • FreeRTOS • C/C++ • Arduino  
-**Cloud:** Firebase • Node.js • REST APIs • Cloud Functions  
-**Frontend:** React • React Native • TypeScript • Next.js  
-**AI/ML:** TensorFlow Lite • PyTorch • Python  
-**Tools:** Git • GitHub Actions • EasyEDA • JLCPCB • VS Code  
+```
+Embedded:    ESP32 • FreeRTOS • C/C++ • Arduino • PlatformIO
+Cloud:       Firebase • Node.js • REST APIs • Cloud Functions
+Frontend:    React • React Native • TypeScript • Next.js
+AI/ML:       TensorFlow Lite • PyTorch • Python
+Tools:       Git • GitHub Actions • EasyEDA • JLCPCB • VS Code
+```
+
+---
+
+## 📊 GitHub Stats
+
+```
+⭐ Total Stars Earned:        2
+📝 Total Commits (last year):  66
+🔀 Total PRs:                  0
+📋 Total Issues:               4
+🤝 Contributed to (last year): 1
+```
+
+**Most Used Languages:**
+- 🐍 Python: 88.34%
+- 🟨 JavaScript: 4.68%
+- 🔵 TypeScript: 2.94%
+- 🔴 HTML: 2.03%
+- 🟣 CSS: 1.26%
+- 🔴 C++: 0.75%
 
 ---
 
@@ -38,29 +60,31 @@ Building intelligent **sensor-to-cloud systems** for smart aquaculture 🦐
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minhhieu-2003&show_icons=true&theme=radical&hide_border=true)](https://github.com/minhhieu-2003)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minhhieu-2003&layout=compact&theme=radical&hide_border=true)](https://github.com/minhhieu-2003)
-
----
-
 ## 🎯 Focus Areas
 
-✅ IoT & Embedded Systems  
-✅ Smart Aquaculture & Agriculture  
-✅ Edge AI & Computer Vision  
-✅ Full-Stack Development  
-✅ Open-Source Collaboration  
+✅ **IoT & Embedded Systems** – ESP32, FreeRTOS, sensor integration  
+✅ **Smart Aquaculture** – Real-time monitoring, automated control  
+✅ **Edge AI** – TensorFlow Lite, disease detection, anomaly detection  
+✅ **Full-Stack Development** – Hardware → Firmware → Cloud → Mobile  
+✅ **Open-Source** – Community-driven solutions for sustainable agriculture  
 
 ---
 
-## 🔗 Connect
+## 📚 Latest Projects Status
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:minhhieutran691@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/minhhieu-tran-767b17396/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/minhhieu_2003)
-[![Website](https://img.shields.io/badge/Website-000?style=flat-square&logo=web&logoColor=white)](https://shrimptech.vn)
+- **ShrimpTechWeb:** Full-stack platform deployed on Vercel
+- **IoT-SystemDemo_App:** Production firmware with 5+ FreeRTOS tasks
+- **ShrimpTechApp:** React Native app for iOS & Android
+- **NCKH:** University research on smart aquaculture systems
+
+---
+
+## 🔗 Quick Links
+
+📧 **Email:** [minhhieutran691@gmail.com](mailto:minhhieutran691@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/minhhieu-tran-767b17396](https://linkedin.com/in/minhhieu-tran-767b17396/)  
+🐦 **Twitter:** [@minhhieu_2003](https://twitter.com/minhhieu_2003)  
+🌐 **Website:** [shrimptech.vn](https://shrimptech.vn)  
 
 ---
 
