@@ -71,13 +71,13 @@ Others:          0.52%  ⚪
       <a href="awards/award_2.jpg">
         <img src="awards/award_2.jpg" height="300" alt="Certificate 2"/>
       </a>
-      <br/><sub>🏆 <b>Certificate</b></sub>
+      <br/><sub>🏆 <b>Recognition Certificate</b></sub>
     </td>
     <td width="33%" align="center">
       <a href="awards/award_3.jpg">
         <img src="awards/award_3.jpg" height="300" alt="Certificate 3"/>
       </a>
-      <br/><sub>🎯 <b>Recognition</b></sub>
+      <br/><sub>🎯 <b>Achievement Certificate</b></sub>
     </td>
   </tr>
 </table>
@@ -90,25 +90,25 @@ Others:          0.52%  ⚪
       <a href="awards/award_4.jpg">
         <img src="awards/award_4.jpg" width="180" alt="Medal 1"/>
       </a>
-      <br/><sub>⭐ <b>Excellence</b></sub>
+      <br/><sub>🥈 <b>Runner-up Medal</b></sub>
     </td>
     <td width="25%" align="center">
       <a href="awards/award_5.jpg">
         <img src="awards/award_5.jpg" width="180" alt="Medal 2"/>
       </a>
-      <br/><sub>🌟 <b>Innovation</b></sub>
+      <br/><sub>🧠 <b>Creative Innovation Medal</b></sub>
     </td>
     <td width="25%" align="center">
       <a href="awards/award_6.jpg">
         <img src="awards/award_6.jpg" width="180" alt="Award 6"/>
       </a>
-      <br/><sub>💡 <b>Creative</b></sub>
+      <br/><sub>💡 <b>Encouragement Award</b></sub>
     </td>
     <td width="25%" align="center">
       <a href="awards/award_8.jpg">
         <img src="awards/award_8.jpg" width="180" alt="Certificate"/>
       </a>
-      <br/><sub>🎓 <b>Academic</b></sub>
+      <br/><sub>🎖️ <b>Excellence Certificate</b></sub>
     </td>
   </tr>
 </table>
@@ -119,7 +119,7 @@ Others:          0.52%  ⚪
   <a href="awards/award_7.jpg">
     <img src="awards/award_7.jpg" width="600" alt="Startup Event"/>
   </a>
-  <br/><sub><b>� HUTECH Startup Wings - Top 6 Finalist</b></sub>
+  <br/><sub><b>🎉 VHU JOB FAIR - Top 6 Finalist</b></sub>
 </p>
 
 </div>
