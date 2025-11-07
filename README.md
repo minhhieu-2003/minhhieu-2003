@@ -55,25 +55,56 @@ Others:          0.52%  ⚪
 
 ### 📸 Award Gallery
 
-<div align="center">
-  <img src="awards/hutech_startup_runner_up.jpg" width="400" alt="HUTECH Startup Runner-up Award"/>
-  <img src="awards/award_2.jpg" width="400" alt="Award Certificate 2"/>
-</div>
-
-<div align="center">
-  <img src="awards/award_3.jpg" width="400" alt="Award Certificate 3"/>
-  <img src="awards/award_4.jpg" width="400" alt="Award Certificate 4"/>
-</div>
-
-<div align="center">
-  <img src="awards/award_5.jpg" width="400" alt="Award Certificate 5"/>
-  <img src="awards/award_6.jpg" width="400" alt="Award Certificate 6"/>
-</div>
-
-<div align="center">
-  <img src="awards/award_7.jpg" width="400" alt="Award Certificate 7"/>
-  <img src="awards/award_8.jpg" width="400" alt="Award Certificate 8"/>
-</div>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="awards/hutech_startup_runner_up.jpg" width="100%" alt="HUTECH Startup Runner-up Award" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      <br/>
+      <sub><b>🥈 HUTECH Startup Runner-up</b></sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="awards/award_2.jpg" width="100%" alt="Award Certificate 2" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      <br/>
+      <sub><b>🏆 Achievement Certificate</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="awards/award_3.jpg" width="100%" alt="Award Certificate 3" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      <br/>
+      <sub><b>🎯 Recognition Award</b></sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="awards/award_4.jpg" width="100%" alt="Award Certificate 4" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      <br/>
+      <sub><b>⭐ Excellence Award</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="awards/award_5.jpg" width="100%" alt="Award Certificate 5" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      <br/>
+      <sub><b>🌟 Innovation Prize</b></sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="awards/award_6.jpg" width="100%" alt="Award Certificate 6" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      <br/>
+      <sub><b>💡 Creative Award</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="awards/award_7.jpg" width="100%" alt="Award Certificate 7" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      <br/>
+      <sub><b>🚀 Startup Achievement</b></sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="awards/award_8.jpg" width="100%" alt="Award Certificate 8" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+      <br/>
+      <sub><b>🎓 Academic Excellence</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
