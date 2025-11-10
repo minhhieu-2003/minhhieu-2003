@@ -119,7 +119,7 @@ Others:          0.52%  ⚪
   <a href="awards/award_7.jpg">
     <img src="awards/award_7.jpg" width="600" alt="Startup Event"/>
   </a>
-  <br/><sub><b>🎉 VHU JOB FAIR - Top 6 Finalist</b></sub>
+  <br/><sub><b>🎉 VHU JOB FAIR </b></sub>
 </p>
 
 </div>
