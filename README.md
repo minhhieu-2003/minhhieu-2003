@@ -47,7 +47,7 @@ Others:          0.52%  ⚪
 
 ## 🏆 Awards & Recognition (2025)
 
-🥈 **2nd Prize** – HUTECH Startup Ideas (3rd consecutive)  
+🥈 **2nd Prize** – HUTECH Startup Ideas (3rd)  
 🧠 **Creative Innovation Award** – HUTECH University  
 🚀 **Top 6** – HUTECH Startup Wings  
 🏅 **Encouragement Award** – Van Hien University  
@@ -140,7 +140,6 @@ Others:          0.52%  ⚪
 
 📧 **Email:** [minhhieutran691@gmail.com](mailto:minhhieutran691@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/minhhieu-tran-767b17396](https://linkedin.com/in/minhhieu-tran-767b17396/)  
-🐦 **Twitter:** [@minhhieu_2003](https://twitter.com/minhhieu_2003)  
 🌐 **Website:** [shrimptech.vn](https://shrimptech.vn)  
 
 ---
